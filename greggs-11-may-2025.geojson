@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "greggs-11-may-2025",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "shopCode": 2397, "shopName": "Bargoed, U5 The Plateau", "priceListId": 10, "address.houseNumberOrName": "U5", "address.streetName": "The Plateau", "address.city": "Bargoed", "address.postCode": "CF81 8QT", "address.country": "GB", "address.longitude": -3.228920986, "address.latitude": 51.68821777, "address.phoneNumber": "01443583543" }, "geometry": { "type": "Point", "coordinates": [ -3.228920986, 51.68821777 ] } },"01768425063" }, "geometry": { "type": "Point", "coordinates": [ -2.770470708, 54.65042409 ] } },Service Station", "address.city": "Chester", "address.postCode": "CH1 6JS", "address.country": "GB", "address.longitude": -2.950260878, "address.latitude": 53.23929225, "address.phoneNumber": "01244918749" }, "geometry": { "type": "Point", "coordinates": [ -2.950260878, 53.23929225 ] } },
+{ "type": "Feature", "properties": { "shopCode": 5315, "shopName": "ASDA EXPRESS Stevenage", "priceListId": 39, "address.houseNumberOrName": null, "address.streetName": "Gunnels Wood Road", "address.city": "Stevenage", "address.postCode": "SG1 2FS", "address.country": "GB", "address.longitude": -0.202971877, "address.latitude": 51.88903425, "address.phoneNumber": "01462412666" }, "geometry": { "type": "Point", "coordinates": [ -0.202971877, 51.88903425 ] } },
+{ "type": "Feature", "properties": { "shopCode": 5134, "shopName": "ASDA EXPRESS Whitemare Pool", "priceListId": 39, "address.houseNumberOrName": "A194 White Mare Pool", "address.streetName": null, "address.city": "Gateshead", "address.postCode": "NE10 8YB", "address.country": "GB", "address.longitude": -1.515646477, "address.latitude": 54.94701655, "address.phoneNumber": "01914066968" }, "geometry": { "type": "Point", "coordinates": [ -1.515646477, 54.94701655 ] } },
+{ "type": "Feature", "properties": { "shopCode": 5570, "shopName": "ASDA EXPRESS Bridgnorth", "priceListId": 39, "address.houseNumberOrName": "The Heritage Building", "address.streetName": "Stourbridge Road", "address.city": "Bridgnorth", "address.postCode": "WV15 6AP", "address.country": "GB", "address.longitude": -2.398760813, "address.latitude": 52.52765402, "address.phoneNumber": "01746330802" }, "geometry": { "type": "Point", "coordinates": [ -2.398760813, 52.52765402 ] } },
+{ "type": "Feature", "properties": { "shopCode": 5317, "shopName": "ASDA EXPRESS Tongham", "priceListId": 39, "address.houseNumberOrName": null, "address.streetName": "JA331/A31", 
+
+]
+}
