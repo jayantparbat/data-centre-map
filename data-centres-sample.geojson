@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Digital Realty - Manchester",
+        "provider": "Digital Realty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2426,
+          53.4808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VIRTUS Data Centre - Slough",
+        "provider": "VIRTUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5954,
+          51.5095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix LD8 - London",
+        "provider": "Equinix"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0158,
+          51.5033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulsant - Edinburgh South Gyle",
+        "provider": "Pulsant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3073,
+          55.9331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NextGenDC - Leeds",
+        "provider": "NextGenDC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5491,
+          53.8008
+        ]
+      }
+    }
+  ]
+}
