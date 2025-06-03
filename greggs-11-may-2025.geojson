@@ -4090,15 +4090,15 @@
                 "address.city": null,
                 "address.postCode": null,
                 "address.country": "GB",
-                "address.longitude": -3.71029,
-                "address.latitude": 40.40225,
+                "address.longitude": -2.236013,
+                "address.latitude": 53.463013,
                 "address.phoneNumber": null
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -3.71029,
-                    40.40225
+                    -2.236013,
+                    53.463013
                 ]
             }
         },
