@@ -4187,7 +4187,7 @@
             "type": "Feature",
             "properties": {
                 "shopCode": 167,
-                "shopName": "Equinix MA4 \u2013 Unit 4 Synergy House, Manchester Science Park, M15 6SY Manchester, United Kingdom",
+                "shopName": "Equinix MA4 \u2013 Unit 4 Synergy House, Manchester Science Park, M15 65Y Manchester, United Kingdom",
                 "priceListId": 10,
                 "address": {
                     "houseNumberOrName": null,
@@ -4195,16 +4195,16 @@
                     "city": null,
                     "postCode": null,
                     "country": "GB",
-                    "longitude": -2.238369,
-                    "latitude": 53.461623,
+                    "longitude": -149.85075,
+                    "latitude": 62.16129,
                     "phoneNumber": null
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -2.238369,
-                    53.461623
+                    -149.85075,
+                    62.16129
                 ]
             }
         },
@@ -4345,16 +4345,16 @@
                     "city": null,
                     "postCode": null,
                     "country": "GB",
-                    "longitude": -2.247512
-                    "latitude": 53.4644,
-                    "phoneNumber": null, 
+                    "longitude": -3.71029,
+                    "latitude": 40.40225,
+                    "phoneNumber": null
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -2.247512,
-                    53.4644
+                    -3.71029,
+                    40.40225
                 ]
             }
         },
@@ -4445,16 +4445,16 @@
                     "city": null,
                     "postCode": null,
                     "country": "GB",
-                    "longitude": -2.236013,
-                    "latitude": 53.463013,
-                    "phoneNumber": null, 
+                    "longitude": -3.71029,
+                    "latitude": 40.40225,
+                    "phoneNumber": null
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -2.236013,
-                    53.463013
+                    -3.71029,
+                    40.40225
                 ]
             }
         },
