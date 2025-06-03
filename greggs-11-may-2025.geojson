@@ -3860,15 +3860,15 @@
                 "address.city": null,
                 "address.postCode": null,
                 "address.country": "GB",
-                "address.longitude": -149.85075,
-                "address.latitude": 62.16129,
+                "address.longitude": -2.238369,
+                "address.latitude": 53.461623,
                 "address.phoneNumber": null
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -149.85075,
-                    62.16129
+                    -2.238369,
+                    53.461623
                 ]
             }
         },
