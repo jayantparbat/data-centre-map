@@ -4187,7 +4187,7 @@
             "type": "Feature",
             "properties": {
                 "shopCode": 167,
-                "shopName": "Equinix MA4 \u2013 Unit 4 Synergy House, Manchester Science Park, M15 65Y Manchester, United Kingdom",
+                "shopName": "Equinix MA4 \u2013 Unit 4 Synergy House, Manchester Science Park, M15 6SY Manchester, United Kingdom",
                 "priceListId": 10,
                 "address": {
                     "houseNumberOrName": null,
@@ -4195,8 +4195,8 @@
                     "city": null,
                     "postCode": null,
                     "country": "GB",
-                    "longitude": -149.85075,
-                    "latitude": 62.16129,
+                    "longitude": -2.238369,
+                    "latitude": 53.461623,
                     "phoneNumber": null
                 }
             },
@@ -4345,9 +4345,9 @@
                     "city": null,
                     "postCode": null,
                     "country": "GB",
-                    "longitude": -3.71029,
-                    "latitude": 40.40225,
-                    "phoneNumber": null
+                    "longitude": -2.247512
+                    "latitude": 53.4644,
+                    "phoneNumber": null, 
                 }
             },
             "geometry": {
@@ -4445,9 +4445,9 @@
                     "city": null,
                     "postCode": null,
                     "country": "GB",
-                    "longitude": -3.71029,
-                    "latitude": 40.40225,
-                    "phoneNumber": null
+                    "longitude": -2.236013,
+                    "latitude": 53.463013,
+                    "phoneNumber": null, 
                 }
             },
             "geometry": {
